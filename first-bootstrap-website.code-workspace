@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\responsive"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap oo"
+	}
+}
